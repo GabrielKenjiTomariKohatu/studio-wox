@@ -6,7 +6,7 @@
   <h3 align="center">Studio Wox</h3>
 
   <p align="center">
-
+    <a href="https://studio-wox.vercel.app/">https://studio-wox.vercel.app/</a>
   </p>
 </div>
 
@@ -35,21 +35,19 @@ Para utilizar o projeto é necessário a versão do nodejs v18^, caso esteja usa
 
 -   Com NVM:
 
-    ```sh
-        nvm install v18.18.0
-    ```
+```sh
+nvm install v18.18.0
+```
 
-    ```sh
-        nvm use v18.18.0
-    ```
+```sh
+nvm use v18.18.0
+```
 
 ### Instalação
 
 Depois de feito o processo de instalação do node de um git clone no projeto
 
-    ```sh
-        git clone https://github.com/GabrielKenjiTomariKohatu/studio-wox.git
-    ```
+    git clone https://github.com/GabrielKenjiTomariKohatu/studio-wox.git
 
 ## Como Usar localmente
 
