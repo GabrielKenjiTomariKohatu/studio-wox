@@ -7,7 +7,7 @@ interface ButtonProps {
     onClick: (event: React.MouseEvent<HTMLButtonElement>) => void;
 }
 
-export default function Button({ type, children, onClick }: ButtonProps) : JSX.Element {
+export default function Button({ type, children, onClick }: ButtonProps): JSX.Element {
     switch (type) {
         case 'basic':
             return <ButtonBasic onClick={onClick}>{children}</ButtonBasic>;

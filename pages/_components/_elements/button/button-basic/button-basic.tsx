@@ -1,5 +1,5 @@
 import React from 'react';
-import styles from '@/pages/_components/_elements/Button/button-basic/button-basic.module.css';
+import styles from './button-basic.module.css';
 
 interface ButtonBasicProps {
     children: string;
