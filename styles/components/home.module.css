@@ -1,0 +1,17 @@
+.line {
+    background-color: #ffffff;
+    width: 1px;
+    height: 27px;
+}
+
+.lineRed {
+    background-color: #cc3333;
+    width: 104px;
+    height: 3px;
+}
+
+.lineAqua {
+    background-color: #42b9bd;
+    width: 104px;
+    height: 3px;
+}

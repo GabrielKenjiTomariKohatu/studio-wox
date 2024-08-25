@@ -1,0 +1,50 @@
+.page {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.line-vertical {
+    background-color: #c7c7c7;
+    height: 27px;
+    width: 1px;
+}
+
+.layout-section-footer {
+    background-color: #000000;
+    min-height: 400px;
+}
+
+.line {
+    background-color: #ffc700;
+    width: 75px;
+    height: 3px;
+}
+
+.gap-itens {
+    gap: 12px;
+}
+
+.min-height-itens {
+    min-height: 64px;
+}
+
+.cursor-pointer {
+    cursor: pointer;
+}
+
+.min-heigh-footer {
+    min-height: 80px;
+}
+
+.no-list-style {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.custom-height-56 {
+    height: 56px;
+}

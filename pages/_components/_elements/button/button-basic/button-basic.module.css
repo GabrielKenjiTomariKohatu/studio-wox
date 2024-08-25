@@ -1,0 +1,10 @@
+.button-basic-style {
+    padding: 2px 20px;
+    border: none;
+    background-color: transparent;
+    border-radius: 50px;
+}
+
+.button-basic-style:hover {
+    background-color: #e6e6e6;
+}
